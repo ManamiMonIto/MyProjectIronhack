@@ -1,7 +1,7 @@
 # Find Hidden Treasures 
 > Maze Arcade Game inspired by PacMan
 
-![](gameboard.png)
+![screenshot](assets/game-controller.png)
 
 ## How to play
 Easy! Click "the game controller icon🎮" to start/restart the game!
