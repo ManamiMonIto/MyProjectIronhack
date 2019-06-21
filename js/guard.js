@@ -12,7 +12,7 @@ class Guard{
     this.checkCollision()
   }
   move(){
-    if (frameCount%30 == 2){
+    if (frameCount%30 == 3){
       let randomX =Math.round(random(-1,1))
       let randomY =Math.round(random(-1,1))
       if(game.map[this.y +randomY][this.x + randomX] !==0){
